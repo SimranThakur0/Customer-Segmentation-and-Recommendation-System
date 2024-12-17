@@ -1,0 +1,11 @@
+Flask
+gunicorn
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+scipy
+scikit-learn
+yellowbrick
+tabulate
